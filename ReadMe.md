@@ -1,4 +1,4 @@
-<img align="right" alt="Codding" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Codding" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 # 💫 About Me:
 🇺🇦 i'm from Ukraine<br>👨‍🎓 i'm student at Mate Academy<br>💻 i'm learning Front-End development
